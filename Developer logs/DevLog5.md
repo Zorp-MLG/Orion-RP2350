@@ -5,7 +5,7 @@ description: "A custom MCU"
 created_at: "2026 09 27"
 ---
 
-# nov 19th: Working on PCB
+# okt 19th: Working on PCB
 I almost finished the pcb routing!
 
 Just a couple more. 
