@@ -1,5 +1,5 @@
-# Orion-RP2350( "orion(1)" )
-Custom MCU made for PHANTOM, an hackclub program.
+# Orion-RP2350 (1)
+Custom microcontroller board
 
 
 <img width="2000" height="2000" alt="ORION" src="https://github.com/user-attachments/assets/eceb433e-61c8-4fb5-85f8-bb986c6e3b4e" />
