@@ -18,5 +18,4 @@ duel Processor able to hit 150mhz, 520kb SRAM, and 16MBS of storage!
 
 <img width="327" height="498" alt="PCB BACK" src="https://github.com/user-attachments/assets/efe25f61-36a7-4d7a-a71a-7ee8d914f756" />
 
-
-
+<img width="4049" height="2860" alt="Schematic_Orion-RP2350-(phantom)_2026-09-25" src="https://github.com/user-attachments/assets/1bef8b7a-a771-4d73-b803-4fc91bd7c17d" />
