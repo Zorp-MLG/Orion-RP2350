@@ -27,3 +27,18 @@ duel Processor able to hit 150mhz, 520kb SRAM, and 16MBS of storage!
 3. solder everything
 4. make custom software or download it somewhere
 6.send the data thru on the chip via the usb C finish!
+
+
+# Example firmware:
+
+```
+void setup() {
+  pinMode(LED_BUILTIN, OUTPUT);
+}
+void loop() {
+  digitalWrite(LED_BUILTIN, HIGH);  
+  delay(1000);                      
+  digitalWrite(LED_BUILTIN, LOW);   
+  delay(1000);                      
+}
+```
