@@ -28,6 +28,12 @@ duel Processor able to hit 150mhz, 520kb SRAM, and 16MBS of storage!
 4. make custom software or download it somewhere
 6.send the data thru on the chip via the usb C finish!
 
+# Firmware:
+You are able to download the official Raspberry pi Firmware on it via the USB 
+
+
+
+
 
 # Example firmware:
 
